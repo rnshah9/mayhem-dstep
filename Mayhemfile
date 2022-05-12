@@ -1,0 +1,6 @@
+project: rnshah9/playground
+target: dstep
+
+cmds:
+  - cmd: /repo/bin/dstep @@
+    filepath: /test.h
