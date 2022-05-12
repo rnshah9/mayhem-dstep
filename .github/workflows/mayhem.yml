@@ -25,6 +25,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
+          fetch-depth: 500
           submodules: true
 
       - name: Log in to the Container registry
