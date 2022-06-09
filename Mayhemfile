@@ -1,6 +1,6 @@
-project: rnshah9/mayhem-dstep
+project: dstep
 target: dstep
 
 cmds:
-  - cmd: /repo/bin/dstep @@
+  - cmd: /repo/bin/dstep /test.h
     filepath: /test.h
