@@ -2,5 +2,4 @@ project: dstep
 target: dstep
 
 cmds:
-  - cmd: /repo/bin/dstep /test.h
-    filepath: /test.h
+  - cmd: /dstep @@
